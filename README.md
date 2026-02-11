@@ -35,9 +35,6 @@ Contributions are welcome! If you'd like to add features, fix bugs, or improve d
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
